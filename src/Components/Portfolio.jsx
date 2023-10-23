@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/design-desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Image in portfolio screen";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A Glimpse into Machine Learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "ahead and behind the scenes...",
+    url: "https://blog.sreeteja.dev/a-glimpse-into-machine-learning",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Linear Regression: Housing Prices Prediction",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "no matter how bad things get or how good, things always come back to middl",
+    url: "https://blog.sreeteja.dev/linear-regression-housing-prices-prediction",
   },
   {
-    title: "My Resume Site",
+    title: "Introduction to Neural Networks",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "the way machines think... · Your brain doesn't manufacture thoughts",
+    url: "https://blog.sreeteja.dev/introduction-to-neural-networks",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Image Classification",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Cats vs. Dogs · Science is the systematic classification of experience ~George Henry Lewes",
+    url: "https://blog.sreeteja.dev/image-classification",
   },
 ];
 

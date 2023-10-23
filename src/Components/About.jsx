@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/motion-background.jpeg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Image in about screen";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a sophomore Computer Science student at GITAM University. I am fanatic about Machine Learning and I love talking about it. As a hobbyist Front - End Developer, I enjoy crafting visually appealing and user - friendly interfaces for websites. Additionally, I dabble in Flutter development, bringing ideas to life through coding.To top it off, I have a flair for UI / UX design, which allows me to create intuitive and aesthetically pleasing experiences for users.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,8 +33,8 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Flutter Development",
+  "Machine Learning",
   "Mobile user interfaces",
   "Graphic design",
 ];
